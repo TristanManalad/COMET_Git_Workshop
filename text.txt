@@ -1,1 +1,1 @@
-"sample text" - Hello
+"sample text" - Hello bean
